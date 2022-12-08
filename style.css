@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (min-width: 992px){
+
+.zadatci{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.zadatak1{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak2{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: burlywood;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak3{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: blueviolet;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak4{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: grey;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak5{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak6{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: aquamarine;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak7{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: violet;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak8{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: blue;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.zadatak9{
+    position: relative;
+    height: 50px;
+    width: 5%;
+    margin-top: 10px;
+    background-color: red;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+button:hover{
+    cursor:pointer;
+    background-color: purple;
+}
+}
